@@ -1,4 +1,4 @@
-# DotnetNet E-Commerce Application
+# DotNet E-Commerce Application
 
 Tech Stack
 1. .NET
